@@ -1,0 +1,2 @@
+# ggminer
+cgminer
